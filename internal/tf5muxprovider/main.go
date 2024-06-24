@@ -1,7 +1,7 @@
 package tf5muxprovider
 
 import (
-	"log"
+	log "github.com/sirupsen/logrus"
 
 	"github.com/hashicorp/terraform-plugin-go/tfprotov5/tf5server"
 )
